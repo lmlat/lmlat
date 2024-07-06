@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('../font/iconfont2.ttf?t=1680559623104') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* 阅读数, 浏览数 */
+.icon-yuedushu:before {
+  content: "\e620";
+}
+

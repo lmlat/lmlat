@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4611974 */
+  src: url('../font/iconfont3.ttf?t=1720239538347') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-quanping:before {
+  content: "\e64d";
+}
+
+.icon-chaokuanmoshi:before {
+  content: "\e827";
+}
+
+.icon-biaokuanmoshi:before {
+  content: "\e828";
+}
+

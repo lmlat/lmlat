@@ -1,0 +1,12 @@
+svg[class*=icon-] {
+    height: 28px;
+    width: 28px;
+    margin-right: 0 !important;
+    line-height: 28px;
+    vertical-align: center;
+    padding-left: 3px;
+    text-align: center;
+    /*vertical-align: -0.15em;*/
+    /*fill: currentColor;*/
+    overflow: hidden;
+}
